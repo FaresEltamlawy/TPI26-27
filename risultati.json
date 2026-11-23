@@ -1,0 +1,772 @@
+[
+  {
+    "provincia": "GIMIGLIANO",
+    "prezzo_medio": 2.295,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "AMATO",
+    "prezzo_medio": 2.255,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "MARCIANA",
+    "prezzo_medio": 2.248,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "MAGISANO",
+    "prezzo_medio": 2.235,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "CATANZARO",
+    "prezzo_medio": 2.199,
+    "numero_prezzi": 4
+  },
+  {
+    "provincia": "SIMERI CRICHI",
+    "prezzo_medio": 2.199,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "MARCELLINARA",
+    "prezzo_medio": 2.199,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "PORTOFERRAIO",
+    "prezzo_medio": 2.199,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "TIRIOLO",
+    "prezzo_medio": 2.199,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "FOMBIO",
+    "prezzo_medio": 2.149,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "CODOGNO",
+    "prezzo_medio": 2.149,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "VIGNOLA",
+    "prezzo_medio": 2.146,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "Via dei Martiri 255 41059",
+    "prezzo_medio": 2.146,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "ANDRANO",
+    "prezzo_medio": 2.14,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "COPERTINO",
+    "prezzo_medio": 2.139,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "CASTELLAMMARE DI STABIA",
+    "prezzo_medio": 2.099,
+    "numero_prezzi": 2
+  },
+  {
+    "provincia": "POMPEI",
+    "prezzo_medio": 2.099,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "MERCATO SAN SEVERINO",
+    "prezzo_medio": 2.099,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "SAN PIETRO VIMINARIO",
+    "prezzo_medio": 2.099,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "SCAFATI",
+    "prezzo_medio": 2.099,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "CARIFE",
+    "prezzo_medio": 2.095,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "LIONI",
+    "prezzo_medio": 2.095,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "GUARDIA LOMBARDI",
+    "prezzo_medio": 2.095,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "GROTTAMINARDA",
+    "prezzo_medio": 2.095,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "NAPOLI",
+    "prezzo_medio": 2.086,
+    "numero_prezzi": 3
+  },
+  {
+    "provincia": "LATINA",
+    "prezzo_medio": 2.085,
+    "numero_prezzi": 3
+  },
+  {
+    "provincia": "MT",
+    "prezzo_medio": 2.083,
+    "numero_prezzi": 57
+  },
+  {
+    "provincia": "CASTROVILLARI",
+    "prezzo_medio": 2.079,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "TRENTOLA-DUCENTA",
+    "prezzo_medio": 2.079,
+    "numero_prezzi": 2
+  },
+  {
+    "provincia": "ARDEA",
+    "prezzo_medio": 2.079,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "NU",
+    "prezzo_medio": 2.077,
+    "numero_prezzi": 61
+  },
+  {
+    "provincia": "SA",
+    "prezzo_medio": 2.075,
+    "numero_prezzi": 285
+  },
+  {
+    "provincia": "GROSSETO",
+    "prezzo_medio": 2.074,
+    "numero_prezzi": 2
+  },
+  {
+    "provincia": "VICENZA",
+    "prezzo_medio": 2.074,
+    "numero_prezzi": 2
+  },
+  {
+    "provincia": "AV",
+    "prezzo_medio": 2.073,
+    "numero_prezzi": 149
+  },
+  {
+    "provincia": "BN",
+    "prezzo_medio": 2.066,
+    "numero_prezzi": 114
+  },
+  {
+    "provincia": "PZ",
+    "prezzo_medio": 2.066,
+    "numero_prezzi": 108
+  },
+  {
+    "provincia": "CE",
+    "prezzo_medio": 2.064,
+    "numero_prezzi": 250
+  },
+  {
+    "provincia": "KR",
+    "prezzo_medio": 2.062,
+    "numero_prezzi": 35
+  },
+  {
+    "provincia": "GR",
+    "prezzo_medio": 2.058,
+    "numero_prezzi": 100
+  },
+  {
+    "provincia": "TP",
+    "prezzo_medio": 2.058,
+    "numero_prezzi": 152
+  },
+  {
+    "provincia": "AQ",
+    "prezzo_medio": 2.056,
+    "numero_prezzi": 87
+  },
+  {
+    "provincia": "FG",
+    "prezzo_medio": 2.056,
+    "numero_prezzi": 141
+  },
+  {
+    "provincia": "AG",
+    "prezzo_medio": 2.055,
+    "numero_prezzi": 94
+  },
+  {
+    "provincia": "LE",
+    "prezzo_medio": 2.054,
+    "numero_prezzi": 322
+  },
+  {
+    "provincia": "FE",
+    "prezzo_medio": 2.053,
+    "numero_prezzi": 121
+  },
+  {
+    "provincia": "BZ",
+    "prezzo_medio": 2.053,
+    "numero_prezzi": 107
+  },
+  {
+    "provincia": "CZ",
+    "prezzo_medio": 2.053,
+    "numero_prezzi": 120
+  },
+  {
+    "provincia": "NA",
+    "prezzo_medio": 2.052,
+    "numero_prezzi": 603
+  },
+  {
+    "provincia": "EN",
+    "prezzo_medio": 2.051,
+    "numero_prezzi": 39
+  },
+  {
+    "provincia": "CL",
+    "prezzo_medio": 2.051,
+    "numero_prezzi": 64
+  },
+  {
+    "provincia": "VV",
+    "prezzo_medio": 2.051,
+    "numero_prezzi": 44
+  },
+  {
+    "provincia": "LI",
+    "prezzo_medio": 2.049,
+    "numero_prezzi": 114
+  },
+  {
+    "provincia": "MO",
+    "prezzo_medio": 2.048,
+    "numero_prezzi": 229
+  },
+  {
+    "provincia": "ME",
+    "prezzo_medio": 2.047,
+    "numero_prezzi": 138
+  },
+  {
+    "provincia": "LU",
+    "prezzo_medio": 2.047,
+    "numero_prezzi": 154
+  },
+  {
+    "provincia": "CS",
+    "prezzo_medio": 2.047,
+    "numero_prezzi": 197
+  },
+  {
+    "provincia": "PT",
+    "prezzo_medio": 2.047,
+    "numero_prezzi": 75
+  },
+  {
+    "provincia": "CITTÀ SANT'ANGELO",
+    "prezzo_medio": 2.047,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "RI",
+    "prezzo_medio": 2.046,
+    "numero_prezzi": 64
+  },
+  {
+    "provincia": "VB",
+    "prezzo_medio": 2.046,
+    "numero_prezzi": 48
+  },
+  {
+    "provincia": "SS",
+    "prezzo_medio": 2.045,
+    "numero_prezzi": 135
+  },
+  {
+    "provincia": "TS",
+    "prezzo_medio": 2.045,
+    "numero_prezzi": 29
+  },
+  {
+    "provincia": "SI",
+    "prezzo_medio": 2.044,
+    "numero_prezzi": 89
+  },
+  {
+    "provincia": "IS",
+    "prezzo_medio": 2.044,
+    "numero_prezzi": 27
+  },
+  {
+    "provincia": "CH",
+    "prezzo_medio": 2.043,
+    "numero_prezzi": 145
+  },
+  {
+    "provincia": "TA",
+    "prezzo_medio": 2.042,
+    "numero_prezzi": 155
+  },
+  {
+    "provincia": "TE",
+    "prezzo_medio": 2.041,
+    "numero_prezzi": 109
+  },
+  {
+    "provincia": "BL",
+    "prezzo_medio": 2.041,
+    "numero_prezzi": 83
+  },
+  {
+    "provincia": "AR",
+    "prezzo_medio": 2.04,
+    "numero_prezzi": 115
+  },
+  {
+    "provincia": "TN",
+    "prezzo_medio": 2.04,
+    "numero_prezzi": 149
+  },
+  {
+    "provincia": "UD",
+    "prezzo_medio": 2.04,
+    "numero_prezzi": 174
+  },
+  {
+    "provincia": "RC",
+    "prezzo_medio": 2.039,
+    "numero_prezzi": 153
+  },
+  {
+    "provincia": "FM",
+    "prezzo_medio": 2.039,
+    "numero_prezzi": 58
+  },
+  {
+    "provincia": "OR",
+    "prezzo_medio": 2.039,
+    "numero_prezzi": 45
+  },
+  {
+    "provincia": "BS",
+    "prezzo_medio": 2.038,
+    "numero_prezzi": 416
+  },
+  {
+    "provincia": "CT",
+    "prezzo_medio": 2.037,
+    "numero_prezzi": 309
+  },
+  {
+    "provincia": "BR",
+    "prezzo_medio": 2.037,
+    "numero_prezzi": 128
+  },
+  {
+    "provincia": "FC",
+    "prezzo_medio": 2.036,
+    "numero_prezzi": 125
+  },
+  {
+    "provincia": "RG",
+    "prezzo_medio": 2.036,
+    "numero_prezzi": 119
+  },
+  {
+    "provincia": "VI",
+    "prezzo_medio": 2.035,
+    "numero_prezzi": 272
+  },
+  {
+    "provincia": "BO",
+    "prezzo_medio": 2.035,
+    "numero_prezzi": 282
+  },
+  {
+    "provincia": "AP",
+    "prezzo_medio": 2.035,
+    "numero_prezzi": 75
+  },
+  {
+    "provincia": "MS",
+    "prezzo_medio": 2.034,
+    "numero_prezzi": 57
+  },
+  {
+    "provincia": "PR",
+    "prezzo_medio": 2.033,
+    "numero_prezzi": 159
+  },
+  {
+    "provincia": "VR",
+    "prezzo_medio": 2.033,
+    "numero_prezzi": 283
+  },
+  {
+    "provincia": "RA",
+    "prezzo_medio": 2.033,
+    "numero_prezzi": 119
+  },
+  {
+    "provincia": "PA",
+    "prezzo_medio": 2.033,
+    "numero_prezzi": 273
+  },
+  {
+    "provincia": "AO",
+    "prezzo_medio": 2.033,
+    "numero_prezzi": 45
+  },
+  {
+    "provincia": "PV",
+    "prezzo_medio": 2.032,
+    "numero_prezzi": 157
+  },
+  {
+    "provincia": "TV",
+    "prezzo_medio": 2.031,
+    "numero_prezzi": 259
+  },
+  {
+    "provincia": "RN",
+    "prezzo_medio": 2.031,
+    "numero_prezzi": 105
+  },
+  {
+    "provincia": "CN",
+    "prezzo_medio": 2.031,
+    "numero_prezzi": 236
+  },
+  {
+    "provincia": "VE",
+    "prezzo_medio": 2.03,
+    "numero_prezzi": 222
+  },
+  {
+    "provincia": "BI",
+    "prezzo_medio": 2.029,
+    "numero_prezzi": 61
+  },
+  {
+    "provincia": "VA",
+    "prezzo_medio": 2.029,
+    "numero_prezzi": 192
+  },
+  {
+    "provincia": "PG",
+    "prezzo_medio": 2.029,
+    "numero_prezzi": 238
+  },
+  {
+    "provincia": "SR",
+    "prezzo_medio": 2.028,
+    "numero_prezzi": 123
+  },
+  {
+    "provincia": "PN",
+    "prezzo_medio": 2.028,
+    "numero_prezzi": 100
+  },
+  {
+    "provincia": "CB",
+    "prezzo_medio": 2.028,
+    "numero_prezzi": 78
+  },
+  {
+    "provincia": "BG",
+    "prezzo_medio": 2.027,
+    "numero_prezzi": 275
+  },
+  {
+    "provincia": "CR",
+    "prezzo_medio": 2.026,
+    "numero_prezzi": 111
+  },
+  {
+    "provincia": "AT",
+    "prezzo_medio": 2.026,
+    "numero_prezzi": 94
+  },
+  {
+    "provincia": "MN",
+    "prezzo_medio": 2.026,
+    "numero_prezzi": 145
+  },
+  {
+    "provincia": "TO",
+    "prezzo_medio": 2.025,
+    "numero_prezzi": 540
+  },
+  {
+    "provincia": "AN",
+    "prezzo_medio": 2.025,
+    "numero_prezzi": 165
+  },
+  {
+    "provincia": "LC",
+    "prezzo_medio": 2.025,
+    "numero_prezzi": 73
+  },
+  {
+    "provincia": "SP",
+    "prezzo_medio": 2.025,
+    "numero_prezzi": 57
+  },
+  {
+    "provincia": "PE",
+    "prezzo_medio": 2.024,
+    "numero_prezzi": 95
+  },
+  {
+    "provincia": "SV",
+    "prezzo_medio": 2.024,
+    "numero_prezzi": 87
+  },
+  {
+    "provincia": "TR",
+    "prezzo_medio": 2.023,
+    "numero_prezzi": 71
+  },
+  {
+    "provincia": "PO",
+    "prezzo_medio": 2.023,
+    "numero_prezzi": 59
+  },
+  {
+    "provincia": "FR",
+    "prezzo_medio": 2.022,
+    "numero_prezzi": 194
+  },
+  {
+    "provincia": "BT",
+    "prezzo_medio": 2.022,
+    "numero_prezzi": 69
+  },
+  {
+    "provincia": "LT",
+    "prezzo_medio": 2.021,
+    "numero_prezzi": 159
+  },
+  {
+    "provincia": "IM",
+    "prezzo_medio": 2.021,
+    "numero_prezzi": 57
+  },
+  {
+    "provincia": "AL",
+    "prezzo_medio": 2.021,
+    "numero_prezzi": 158
+  },
+  {
+    "provincia": "RE",
+    "prezzo_medio": 2.02,
+    "numero_prezzi": 175
+  },
+  {
+    "provincia": "MC",
+    "prezzo_medio": 2.02,
+    "numero_prezzi": 119
+  },
+  {
+    "provincia": "SU",
+    "prezzo_medio": 2.02,
+    "numero_prezzi": 88
+  },
+  {
+    "provincia": "PI",
+    "prezzo_medio": 2.02,
+    "numero_prezzi": 158
+  },
+  {
+    "provincia": "CA",
+    "prezzo_medio": 2.02,
+    "numero_prezzi": 101
+  },
+  {
+    "provincia": "PD",
+    "prezzo_medio": 2.019,
+    "numero_prezzi": 276
+  },
+  {
+    "provincia": "APRICENA",
+    "prezzo_medio": 2.019,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "SAN PAOLO DI CIVITATE",
+    "prezzo_medio": 2.019,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "TORREMAGGIORE",
+    "prezzo_medio": 2.019,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "PC",
+    "prezzo_medio": 2.018,
+    "numero_prezzi": 105
+  },
+  {
+    "provincia": "MI",
+    "prezzo_medio": 2.018,
+    "numero_prezzi": 590
+  },
+  {
+    "provincia": "VC",
+    "prezzo_medio": 2.018,
+    "numero_prezzi": 62
+  },
+  {
+    "provincia": "BA",
+    "prezzo_medio": 2.017,
+    "numero_prezzi": 284
+  },
+  {
+    "provincia": "RO",
+    "prezzo_medio": 2.016,
+    "numero_prezzi": 108
+  },
+  {
+    "provincia": "GE",
+    "prezzo_medio": 2.016,
+    "numero_prezzi": 183
+  },
+  {
+    "provincia": "RM",
+    "prezzo_medio": 2.015,
+    "numero_prezzi": 952
+  },
+  {
+    "provincia": "FI",
+    "prezzo_medio": 2.014,
+    "numero_prezzi": 241
+  },
+  {
+    "provincia": "GO",
+    "prezzo_medio": 2.014,
+    "numero_prezzi": 36
+  },
+  {
+    "provincia": "MB",
+    "prezzo_medio": 2.013,
+    "numero_prezzi": 173
+  },
+  {
+    "provincia": "NO",
+    "prezzo_medio": 2.013,
+    "numero_prezzi": 114
+  },
+  {
+    "provincia": "PU",
+    "prezzo_medio": 2.012,
+    "numero_prezzi": 106
+  },
+  {
+    "provincia": "CO",
+    "prezzo_medio": 2.012,
+    "numero_prezzi": 96
+  },
+  {
+    "provincia": "ROMA",
+    "prezzo_medio": 2.012,
+    "numero_prezzi": 34
+  },
+  {
+    "provincia": "LO",
+    "prezzo_medio": 2.008,
+    "numero_prezzi": 52
+  },
+  {
+    "provincia": "MORICONE",
+    "prezzo_medio": 1.999,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "SANT'ANGELO ROMANO",
+    "prezzo_medio": 1.999,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "NETTUNO",
+    "prezzo_medio": 1.999,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "CITTÀ DI CASTELLO",
+    "prezzo_medio": 1.999,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "TORINO",
+    "prezzo_medio": 1.999,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "LECCO",
+    "prezzo_medio": 1.998,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "PALOMBARA SABINA",
+    "prezzo_medio": 1.998,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "COLLECORVINO",
+    "prezzo_medio": 1.997,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "VILLANOVA DI CAMPOSAMPIERO",
+    "prezzo_medio": 1.99,
+    "numero_prezzi": 1
+  },
+  {
+    "provincia": "SABAUDIA",
+    "prezzo_medio": 1.989,
+    "numero_prezzi": 2
+  },
+  {
+    "provincia": "VT",
+    "prezzo_medio": 1.987,
+    "numero_prezzi": 102
+  },
+  {
+    "provincia": "MONTESILVANO",
+    "prezzo_medio": 1.987,
+    "numero_prezzi": 3
+  },
+  {
+    "provincia": "SO",
+    "prezzo_medio": 1.951,
+    "numero_prezzi": 53
+  }
+]
